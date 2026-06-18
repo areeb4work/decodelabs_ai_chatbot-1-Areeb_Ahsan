@@ -284,7 +284,7 @@ decodelabs_ai_chatbot/
 ## 👨‍💻 Author
 
 **Areeb Ahsan**
-DecodeLabs Internship Program — June 2026
+DecodeLabs Internship Program - June 2026
 GitHub: [@areeb4work](https://github.com/areeb4work)
 
 ---
